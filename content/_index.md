@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: ''
+      filename: bg-hue.svg
 
 sections:
   - block: biography
