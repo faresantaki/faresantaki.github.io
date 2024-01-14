@@ -33,10 +33,10 @@ header:
     blox: floating-theme-toggler
 
 # Site footer
-footer:
-  copyright:
-    notice: '© {year} Fares Antaki. 
-    Last update: Jan 14, 2024 from London, United Kingdom.'
+#footer:
+#  copyright:
+#    notice: '© {year} Fares Antaki. 
+#    Last update: Jan 14, 2024 from London, United Kingdom.'
 
 # Localization
 locale:
