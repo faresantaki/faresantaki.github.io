@@ -28,8 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'f.antaki@ucl.ac.uk'
-    label: E-mail Me
+    url: 'mailto:f.antaki@ucl.ac.uk'
   - icon: brands/x
     url: https://twitter.com/FaresAntaki
   - icon: brands/linkedin
@@ -38,6 +37,8 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=6wZ53_sAAAAJ
   - icon: brands/orcid
     url: https://orcid.org/0000-0001-6679-7276
+  - icon: brands/youtube
+    url: https://youtube.com/@FaresAntaki?si=-e3Us-utsgEpw6St
 ---
 
 I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in AI at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, United Kingdom. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
