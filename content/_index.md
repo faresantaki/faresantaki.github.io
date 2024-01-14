@@ -7,7 +7,7 @@ design:
   background:
     image:
       # Add your image background to `assets/media/`.
-      filename: bg-hue.svg
+      filename: ''
 
 sections:
   - block: biography
@@ -22,16 +22,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: My most recent paper on LLMs
+        - text: Most recent paper on LLMs
           icon: academicons/pubmed
           url: https://pubmed.ncbi.nlm.nih.gov/37923374/
-        - text: My most cited paper of 2023
+        - text: Most cited paper of 2023
           icon: academicons/elsevier
           url: https://www.ophthalmologyscience.org/article/S2666-9145(23)00056-8/fulltext
-        - text: My Valedictory Speech 2023
+        - text: Valedictory speech 2023
           icon: brands/youtube
           url: https://youtu.be/Mbzujce_JJU?si=DbF5XtKTFITjBQpb
-        - text: My Scientific talks 2021-24
+        - text: Scientific talks 2021-24
           icon: brands/youtube
           url: https://youtube.com/playlist?list=PLK4ymmNyRHh4DUMCyb3jiMN1QmFrfUENl&si=cEfenGsUdUpsrrcI
 ---
