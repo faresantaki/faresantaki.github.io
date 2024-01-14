@@ -22,16 +22,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my most recent paper on LLMs in Ophthalmology
+        - text: My most recent paper on LLMs
           icon: academicons/pubmed
           url: https://pubmed.ncbi.nlm.nih.gov/37923374/
-        - text: Read my most cited paper in 2023
+        - text: My most cited paper of 2023
           icon: academicons/elsevier
           url: https://www.ophthalmologyscience.org/article/S2666-9145(23)00056-8/fulltext
-        - text: Watch my Valedictory Speech 5 Tips for MD Graduates 
+        - text: My Valedictory Speech 2023
           icon: brands/youtube
           url: https://youtu.be/Mbzujce_JJU?si=DbF5XtKTFITjBQpb
-        - text: Watch my scientific talks on YouTube
+        - text: My Scientific talks 2021-24
           icon: brands/youtube
           url: https://youtube.com/playlist?list=PLK4ymmNyRHh4DUMCyb3jiMN1QmFrfUENl&si=cEfenGsUdUpsrrcI
 ---
