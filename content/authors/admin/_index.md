@@ -21,7 +21,7 @@ role: Ophthalmologist & AI Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UCL Inst. of Ophthalmology/ Moorfields
+  - name: UCL Ophthalmology/ Moorfields Eye Hospital
     url: https://www.ucl.ac.uk/ioo/ucl-institute-ophthalmology
 
 # Social Networking
