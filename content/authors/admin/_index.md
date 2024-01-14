@@ -41,8 +41,8 @@ profiles:
     url: https://youtube.com/@FaresAntaki?si=-e3Us-utsgEpw6St
 ---
 
-I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in AI at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, United Kingdom. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
+I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in AI at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, UK. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
 
-My long-term plan is to become a retina surgeon and to establish an emerging technologies lab in my hospital in Montreal. I use the term ’emerging technologies’ to avoid limiting the scope of our work, given the current pace of innovation in artificial intelligence, computing, and hardware. This is expected to lead to the emergence of new areas and applications, which we could use for the benefit of our patients.
+My long-term plan is to become a retina surgeon and to establish an emerging technologies lab in my hospital in Montreal. I use the term ’emerging technologies’ to avoid limiting the scope of our work, given the current pace of innovation in AI, computing, and hardware. This is expected to lead to the emergence of new areas and applications, which we could use for the benefit of our patients.
 
 For now, I primarily work in applying machine learning to vitreoretinal diseases, and I am also interested in integrating virtual reality to surgical education.
