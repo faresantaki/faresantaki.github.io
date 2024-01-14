@@ -38,7 +38,7 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/0000-0001-6679-7276
   - icon: brands/youtube
-    url: https://youtube.com/@FaresAntaki?si=-e3Us-utsgEpw6St
+    url: https://youtube.com/playlist?list=PLK4ymmNyRHh4DUMCyb3jiMN1QmFrfUENl&si=081CUe2V960ymI0V
 ---
 
 I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in AI at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, UK. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
