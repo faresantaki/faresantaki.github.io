@@ -18,4 +18,3 @@ sections:
       biography:
         style: 'text-align: left; font-size: 0.8em;'
   be.com/playlist?list=PLK4ymmNyRHh4DUMCyb3jiMN1QmFrfUENl&si=cEfenGsUdUpsrrcI
----
