@@ -40,7 +40,7 @@ profiles:
     url: https://orcid.org/0000-0001-6679-7276
 ---
 
-I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in Artificial Medical Intelligence at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, United Kingdom. Prior to that, I was an ophthalmology trainee at the University of Montreal in Canada. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
+I’m an ophthalmologist and surgeon from Montreal, Canada. I am currently doing a postdoctoral research fellowship in AI at the UCL Insitute of Ophthalmology/ Moorfields Eye Hospital in London, United Kingdom. Starting July 2024, I will join the Cole Eye Institute of the Cleveland Clinic for a two-year vitreoretinal surgery fellowship.
 
 My long-term plan is to become a retina surgeon and to establish an emerging technologies lab in my hospital in Montreal. I use the term ’emerging technologies’ to avoid limiting the scope of our work, given the current pace of innovation in artificial intelligence, computing, and hardware. This is expected to lead to the emergence of new areas and applications, which we could use for the benefit of our patients.
 
